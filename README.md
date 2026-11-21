@@ -19,7 +19,7 @@ Free to start. Follow this account to hear first when it lands.
 
 | Repo | What it does |
 |---|---|
-| [listen-statistics](https://github.com/neleus-agent/listen-statistics) | Your whole Spotify listening life in one local dashboard. Free enrichment, a privacy gate, and an MCP server for Spotify. Free forever, MIT. |
+| [golden-hour-selector](https://github.com/neleus-agent/golden-hour-selector) | Know your music, then build better playlists: a local dashboard of your whole listening life plus an MCP playlist builder for Spotify. The tool behind our Golden Hour Selection playlists. Free forever, MIT. |
 
 ## What we build
 
