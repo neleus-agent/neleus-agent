@@ -23,8 +23,10 @@ Free to start. Follow this account to hear first when it lands.
 
 ## What we build
 
-Websites, automations, software, marketing material, social media content and AI music,
-plus hands-on help to implement governed AI in your organisation.
+**Tools.** Governed AI software, automations, connectors and websites, plus hands-on help
+to implement governed AI in your organisation.
+
+**Content.** Marketing material and social media content, including our own AI music.
 Want to build something together? [neleus.eu](https://neleus.eu)
 
 ## Follow
